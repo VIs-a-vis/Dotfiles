@@ -38,6 +38,7 @@
     "auto_complete": true,
     "auto_complete_commit_on_tab": false,
     "auto_close_tags": true,
+    "shift_tab_unindent": true,
 
     //
     // User Interface Settings
