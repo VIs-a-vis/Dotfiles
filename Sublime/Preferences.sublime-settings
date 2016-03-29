@@ -1,0 +1,65 @@
+// Place your settings in the file "User/Preferences.sublime-settings"
+//
+// Settings may also be placed in file type specific options files, for
+// example, in Packages/Python/Python.sublime-settings for python files.
+{
+    "color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
+    "line_numbers": true,
+    "gutter": true,
+    "fold_buttons": true,
+    "fade_fold_buttons": true,
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true,
+    "use_tab_stops": true,
+    "detect_indentation": true,
+    "auto_indent": true,
+    "smart_indent": true,
+    "trim_automatic_white_space": true,
+    "word_wrap": false,
+    "auto_match_enabled": true,
+    "draw_minimap_border": false,
+    "always_show_minimap_viewport": true,
+    "highlight_line": true,
+    "match_brackets": true,
+    "match_brackets_content": true,
+    "match_brackets_square": true,
+    "match_brackets_braces": true,
+    "match_brackets_angle": false,
+    "match_tags": true,
+    "match_selection": true,
+    "draw_white_space": "selection",
+    "draw_indent_guides": true,
+    "indent_guide_options": ["draw_normal"],
+    "trim_trailing_white_space_on_save": true,
+    "ensure_newline_at_eof_on_save": true,
+    "default_encoding": "UTF-8",
+    "default_line_ending": "system",
+    "tab_completion": true,
+    "auto_complete": true,
+    "auto_complete_commit_on_tab": false,
+    "auto_close_tags": true,
+
+    //
+    // User Interface Settings
+    //
+
+    "highlight_modified_tabs": true,
+    "show_tab_close_buttons": true,
+    "overlay_scroll_bars": "system",
+    "enable_tab_scrolling": false,
+    "show_encoding": true,
+    "show_line_endings": true,
+
+    //
+    // Application Behavior Settings
+    //
+
+    "hot_exit": true,
+    "remember_full_screen": false,
+    "always_prompt_for_file_reload": false,
+    "open_files_in_new_window": false,
+    "create_window_at_startup": true,
+    "close_windows_when_empty": false,
+    "show_full_path": true,
+    "show_panel_on_build": true
+}
